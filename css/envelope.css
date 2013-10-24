@@ -1,0 +1,7 @@
+body{
+    background: #AC7C43 url(./img/brown_tile.jpg);
+}
+.stamp { 
+    border-image: url(./public/stamp-border.png) 8; 
+    border-width: 8px; 
+}
